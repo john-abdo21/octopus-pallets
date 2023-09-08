@@ -1,8 +1,6 @@
 # octopus-pallets
 Collection of pallets used in Octopus Network
-
 # pallets
-
 ## [pallet-octopus-appchain](https://github.com/octopus-network/octopus-pallets/tree/main/appchain)
 - Metadata of an appchain. Including appchain identifier, RPC endpoint of mainchain, etc.
 - Validators of the appchain will observe the mainchain and submit the observed events using OCW for consensus.
